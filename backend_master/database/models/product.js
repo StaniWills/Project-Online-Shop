@@ -16,6 +16,4 @@ const Product = sequelize.define("product", {
     image: DataTypes.TEXT,
 });
 
-
-
 module.exports = Product;
