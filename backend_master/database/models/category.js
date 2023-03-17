@@ -13,4 +13,6 @@ const Category = sequelize.define("category", {
     image: DataTypes.TEXT,
 });
 
+
+
 module.exports = Category;

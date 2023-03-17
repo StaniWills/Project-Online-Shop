@@ -13,5 +13,3 @@
 ### /categories/1   - ссылка на продукты из первой категории
 ### /products/all   - ссылка на все продукты
 ### /products/1     - ссылка на первый продукт
-
-### https://github.com/HaykInanc/telran_project_backend
